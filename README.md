@@ -10,3 +10,4 @@
 
 # 파이썬 플로팅
 * [Dark Horse Analytics] (http://www.darkhorseanalytics.com/)
+* [Useful Junk?: The Effects of Visual Embellishment on Comprehension and Memorability of Charts] (http://www.stat.columbia.edu/~gelman/communication/Bateman2010.pdf)
