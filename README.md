@@ -12,3 +12,5 @@
 * [Dark Horse Analytics] (http://www.darkhorseanalytics.com/)
 * [Useful Junk?: The Effects of Visual Embellishment on Comprehension and Memorability of Charts] (http://www.stat.columbia.edu/~gelman/communication/Bateman2010.pdf)
 * [Graphics Lies, Misleading Visuals] (https://faculty.ucmerced.edu/jvevea/classes/Spark/readings/Cairo2015_Chapter_GraphicsLiesMisleadingVisuals.pdf)
+* [matplotlib] (http://www.aosabook.org/en/matplotlib.html)
+* [The Architecture of Open Source Applications, Volume II: Structure, Scale, and a Few More Fearless Hacks (Vol. 2)] (https://archive.org/download/aosa_v2/aosa_v2.pdf)
