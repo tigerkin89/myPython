@@ -18,3 +18,8 @@
 * [matplotlib] (http://www.aosabook.org/en/matplotlib.html)
 * [The Architecture of Open Source Applications, Volume II: Structure, Scale, and a Few More Fearless Hacks (Vol. 2)] (https://archive.org/download/aosa_v2/aosa_v2.pdf)
 * (Ten Simple Rules for Better Figures) [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833]
+* module 'pandas' has no attribute 'tools' 에러 대처
+  * pd.tools.plotting.scatter_matrix(iris); 과 같이 pd.tools인 경우 발생
+  * 다음과 같이 처리함
+    * from pandas.plotting import parallel_coordinates
+    * pd.plotting.scatter_matrix(iris);
