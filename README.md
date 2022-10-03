@@ -16,7 +16,8 @@
 * [scikit-get start](https://scikit-learn.org/stable/getting_started.html#)
 * [scikit-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
 * [scikit-learn API reference](http://scikit-learn.org/stable/modules/classes.html)
-* [SciPy] (http://www.scipy.org)
+* [scikit-learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+* [SciPy](http://www.scipy.org)
 
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
