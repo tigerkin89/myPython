@@ -9,6 +9,12 @@
 * [Goodhart's Law] (https://dataskeptic.com/blog/episodes/2016/goodharts-law)
 * [Data Scientists, The 5 Graph Algorithms that you should know] (https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 
+# 머신러닝
+* [scikit-learn Homepage] (http://scikit-learn.org/)
+* [scikit-learn User Guide]  (http://scikit-learn.org/stable/user_guide.html)
+* [scikit-learn API reference]  (http://scikit-learn.org/stable/modules/classes.html)
+* [SciPy] (http://www.scipy.org)
+
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
   * Jupyter Notebook Renderes 설치
