@@ -8,6 +8,8 @@
 * [Science Isn't Broken: p-hacking] (http://fivethirtyeight.com/features/science-isnt-broken/)
 * [Goodhart's Law] (https://dataskeptic.com/blog/episodes/2016/goodharts-law)
 * [Data Scientists, The 5 Graph Algorithms that you should know] (https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
+* 윤리에 대하여
+  * http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
 
 # 머신러닝
 * [scikit-learn Homepage] (http://scikit-learn.org/)
