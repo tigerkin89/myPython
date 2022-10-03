@@ -1,6 +1,6 @@
 
 # 파이썬
-* [쥬피터 랩 데몬 실행하기] (https://nomad-programmer.tistory.com/26)
+* [쥬피터 랩 CentOS 데몬 실행하기] (https://nomad-programmer.tistory.com/26)
 * [Python Regular Expression Quick Guide] (https://www.py4e.com/lectures3/Pythonlearn-11-Regex-Handout.txt)
 * [ Google PageRank Algorithm] (http://infolab.stanford.edu/~backrub/google.html)
 # 데이터 과학
