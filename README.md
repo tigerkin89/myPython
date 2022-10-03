@@ -11,6 +11,7 @@
 
 # 머신러닝
 * [scikit-learn Homepage] (http://scikit-learn.org/)
+* [scikit-get start] (https://scikit-learn.org/stable/getting_started.html#)
 * [scikit-learn User Guide]  (http://scikit-learn.org/stable/user_guide.html)
 * [scikit-learn API reference]  (http://scikit-learn.org/stable/modules/classes.html)
 * [SciPy] (http://www.scipy.org)
