@@ -40,3 +40,5 @@
     * plt.hist([v1, v2], histtype='barstacked', normed=True);
     * normed 대신 density를 사용하고, stacked=True 추가
       * plt.hist([v1, v2], histtype='barstacked', density=True, stacked=True);
+# 파이썬 유용한팁
+* [진행시간, 진행율 표시](https://jimmy-ai.tistory.com/13)
