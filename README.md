@@ -30,6 +30,7 @@
   * Train Model 
     * Fit the estimator to the data
     * [train_test_split 모듈을 활용하여 학습과 테스트 세트 분리](https://teddylee777.github.io/scikit-learn/train-test-split)
+    * [sklearn의traintest_split의 randomstate의 필요성](https://intrepidgeeks.com/tutorial/init-state-split)
     * [klearn의 K-Nearest Neighbors 분류기를 활용하여 Iris 꽃 종류 분류하기 (Classifier)](https://teddylee777.github.io/scikit-learn/KNeighborsClassifier%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B6%84%EB%A5%98%EA%B8%B0-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
   * Evaluation
   * Feature and model refinement
