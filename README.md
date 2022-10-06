@@ -19,6 +19,19 @@
 * [scikit-learn API reference](http://scikit-learn.org/stable/modules/classes.html)
 * [scikit-learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
 * [SciPy](http://www.scipy.org)
+* Represent / Train / Evaluate / Refine Cycle
+  * Representation
+    * Extract and select object features
+    * [scikit-learn 데이터셋(dataset) 다루기](https://teddylee777.github.io/scikit-learn/scikit-learn-dataset)
+    * [scikit-learn 데이터 전처리](https://teddylee777.github.io/scikit-learn/scikit-learn-preprocessing)
+    * [Pandas와 scikit-learn으로 정말 간단한 pre-processing 몇 가지 팁](https://teddylee777.github.io/scikit-learn/sklearn%EC%99%80-pandas%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
+    
+  * Train Model 
+    * Fit the estimator to the data
+    * [train_test_split 모듈을 활용하여 학습과 테스트 세트 분리](https://teddylee777.github.io/scikit-learn/train-test-split)
+    * 
+  * Evaluation
+  * Feature and model refinement
 
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
