@@ -20,6 +20,7 @@
 * [scikit-learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
 * [SciPy](http://www.scipy.org)
 * Represent / Train / Evaluate / Refine Cycle
+  * [모델링 과정](https://bigdaheta.tistory.com/54)
   * Representation
     * Extract and select object features
     * [scikit-learn 데이터셋(dataset) 다루기](https://teddylee777.github.io/scikit-learn/scikit-learn-dataset)
