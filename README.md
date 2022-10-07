@@ -59,7 +59,13 @@
 # 파이썬 유용한팁
 * [진행시간, 진행율 표시](https://jimmy-ai.tistory.com/13)
 ```python
+from tqdm import tqdm
+
 result = df.apply(function, axis = 1) # tqdm 미적용
 result = df.progress_apply(function, axis = 1) # tqdm 적용
+ 
+j = 0
+for i in tqdm(range(10000000)):
+    j += 1
 ```
 
