@@ -35,6 +35,10 @@
     * [klearn의 K-Nearest Neighbors 분류기를 활용하여 Iris 꽃 종류 분류하기 (Classifier)](https://teddylee777.github.io/scikit-learn/KNeighborsClassifier%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B6%84%EB%A5%98%EA%B8%B0-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
   * Evaluation
   * Feature and model refinement
+  
+# 시계열 분석
+* ARIMA 모델
+  *[ARIMA 모델](https://velog.io/@sjina0722/시계열분석-ARIMA-모델)
 
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
