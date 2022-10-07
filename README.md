@@ -12,6 +12,7 @@
   * http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
 
 # 머신러닝
+* [a few useful things to Know about machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [scikit vs tensor flow](https://stackoverflow.com/questions/61233004/whats-the-difference-between-scikit-learn-and-tensorflow-is-it-possible-to-use)
 * [scikit-learn Homepage](http://scikit-learn.org/)
 * [scikit-get start](https://scikit-learn.org/stable/getting_started.html#)
