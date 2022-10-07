@@ -39,6 +39,7 @@
 # 시계열 분석
 * ARIMA 모델
   * [ARIMA 모델](https://velog.io/@sjina0722/시계열분석-ARIMA-모델)
+  * [ARIMA 모델 동영상) [https://www.youtube.com/watch?v=ma_L2YRWMHI]
 
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
