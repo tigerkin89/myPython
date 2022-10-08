@@ -73,4 +73,10 @@ j = 0
 for i in tqdm(range(10000000)):
     j += 1
 ```
+* 판다스 출력 옵션
+```python
+warnings.filterwarnings(action='ignore') # warning ignore 
 
+pd.options.display.max_rows = 80
+pd.options.display.max_columns = 80
+```
