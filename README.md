@@ -40,6 +40,10 @@
 * ARIMA 모델
   * [ARIMA 모델](https://velog.io/@sjina0722/시계열분석-ARIMA-모델)
   * [ARIMA 모델 동영상) [https://www.youtube.com/watch?v=ma_L2YRWMHI]
+* Prophet 모델
+* LSTM
+  * Long Short-Term Memory (LSTM) 이해하기 [https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr]
+  * (Python : Keras : Lstm : 오존 예측 : 예제, 사용법,활용법) https://jjeongil.tistory.com/955
 
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
