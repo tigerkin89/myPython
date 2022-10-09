@@ -84,3 +84,5 @@ warnings.filterwarnings(action='ignore') # warning ignore
 pd.options.display.max_rows = 80
 pd.options.display.max_columns = 80
 ```
+* zip 와 for 문 사용 https://jimmy-ai.tistory.com/183
+
