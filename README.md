@@ -10,6 +10,7 @@
 * [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 * 윤리에 대하여
   * http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
+* Practical Guide to Controlled Experiments on the Web https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf
 
 # 머신러닝
 * [a few useful things to Know about machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
