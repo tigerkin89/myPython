@@ -21,6 +21,7 @@
 * [scikit-learn API reference](http://scikit-learn.org/stable/modules/classes.html)
 * [scikit-learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
 * [SciPy](http://www.scipy.org)
+* Play with Neural Networks: TensorFlow Playground  http://playground.tensorflow.org/
 * Represent / Train / Evaluate / Refine Cycle
   * [모델링 과정](https://bigdaheta.tistory.com/54)
   * Representation
