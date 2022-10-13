@@ -14,6 +14,7 @@
 *  Leakage
    * The Treachery of Leakage https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
    * Leakage in Data Mining: Formulation, Detection, and Avoidance https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf
+   * Data Leakage Example 
 
 # 머신러닝
 * [a few useful things to Know about machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
@@ -41,6 +42,10 @@
   * Evaluation
     * Precision, Recall = Sensitivity https://jaeyung1001.tistory.com/252
   * Feature and model refinement
+
+* 비지도학습
+  *  How to Use t-SNE Effectively http://distill.pub/2016/misread-tsne/#citation
+  *  How Machines Make Sense of Big Data: an Introduction to Clustering Algorithms https://www.freecodecamp.org/news/how-machines-make-sense-of-big-data-an-introduction-to-clustering-algorithms-4bd97d4fbaba
   
 # 딥러닝
   * 개요
