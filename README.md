@@ -39,6 +39,8 @@
     * Precision, Recall = Sensitivity https://jaeyung1001.tistory.com/252
   * Feature and model refinement
   
+# 딥러닝
+  * Deep Learning in a Nutshell: Core Concepts https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
 # 시계열 분석
 * ARIMA 모델
   * [ARIMA 모델](https://velog.io/@sjina0722/시계열분석-ARIMA-모델)
