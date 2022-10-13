@@ -11,6 +11,9 @@
 * 윤리에 대하여
   * http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
 * Practical Guide to Controlled Experiments on the Web https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf
+*  Leakage
+   * The Treachery of Leakage https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
+   * Leakage in Data Mining: Formulation, Detection, and Avoidance https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf
 
 # 머신러닝
 * [a few useful things to Know about machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
@@ -40,7 +43,9 @@
   * Feature and model refinement
   
 # 딥러닝
-  * Deep Learning in a Nutshell: Core Concepts https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
+  * 개요
+    * Deep Learning in a Nutshell: Core Concepts https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
+    * Assisting Pathologists in Detecting Cancer with Deep Learning  https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
 # 시계열 분석
 * ARIMA 모델
   * [ARIMA 모델](https://velog.io/@sjina0722/시계열분석-ARIMA-모델)
