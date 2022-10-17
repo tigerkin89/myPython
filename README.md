@@ -68,6 +68,10 @@
 # Networkx 
 * Clustering coefficient https://en.wikipedia.org/wiki/Clustering_coefficienthttps://en.wikipedia.org/wiki/Clustering_coefficient
   * The local clustering coefficient $C_i$ for a vertex $v_i$ is then given by  ***a proportion of the number of links between the vertices within its neighbourhood* divided by *the number of links that could possibly exist between them.***
+  * Let ${\displaystyle \lambda _{G}(v)}$ be the number of triangles on ${\displaystyle v\in V(G)}$ for undirected graph ${\displaystyle G}$. That is, ${\displaystyle \lambda _{G}(v)}$ is the number of subgraphs of ${\displaystyle G}$ with 3 edges and 3 vertices, one of which is ${\displaystyle v}$. Let ${\displaystyle \tau _{G}(v)}$ be the number of triples on ${\displaystyle v\in G}$. That is, ${\displaystyle \tau _{G}(v)}$ is the number of subgraphs (not necessarily induced) with 2 edges and 3 vertices, one of which is ${\displaystyle v}$ and such that ${\displaystyle v}$ is incident to both edges. Then we can also define the clustering coefficient as
+
+$${\displaystyle C_{i}={\frac {\lambda _{G}(v)}{\tau _{G}(v)}}.}$$
+
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
   * Jupyter Notebook Renderes 설치
