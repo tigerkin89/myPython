@@ -65,6 +65,8 @@
   * Long Short-Term Memory (LSTM) 이해하기 [https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr]
   * (Python : Keras : Lstm : 오존 예측 : 예제, 사용법,활용법) https://jjeongil.tistory.com/955
 
+# Networkx 
+* Clustering coefficient https://en.wikipedia.org/wiki/Clustering_coefficienthttps://en.wikipedia.org/wiki/Clustering_coefficient
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
   * Jupyter Notebook Renderes 설치
