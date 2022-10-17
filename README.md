@@ -67,7 +67,7 @@
 
 # Networkx 
 * Clustering coefficient https://en.wikipedia.org/wiki/Clustering_coefficienthttps://en.wikipedia.org/wiki/Clustering_coefficient
-  * The local clustering coefficient $C_i {\displaystyle C_{i}}C_{i} for a vertex {\displaystyle v_{i}}v_{i} is then given by a proportion of the number of links between the vertices within its neighbourhood divided by the number of links that could possibly exist between them.
+  * The local clustering coefficient $C_i$ for a vertex $v_i$ is then given by  ***a proportion of the number of links between the vertices within its neighbourhood* divided by *the number of links that could possibly exist between them.***
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
   * Jupyter Notebook Renderes 설치
