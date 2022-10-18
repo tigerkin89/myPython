@@ -72,6 +72,9 @@
 
 $${\displaystyle C_{i}={\frac {\lambda _{G}(v)}{\tau _{G}(v)}}.}$$
 
+* Compute the local clustering coefficient of node C:
+  $${\frac { No. of pairs of Cʹs friends who are friends}{No. of pairs of Cʹs friends}}$$
+
 # 파이썬 플로팅
 * Visual Studio Code 환경설정 (graph 출력하기)
   * Jupyter Notebook Renderes 설치
