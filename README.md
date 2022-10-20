@@ -20,7 +20,9 @@
    * The Treachery of Leakage https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
    * Leakage in Data Mining: Formulation, Detection, and Avoidance https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf
    * Data Leakage Example 
-* Power Laws and Rich-Get-Richer Phenomena http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf
+* Graph와 관련되어서
+   * Power Laws and Rich-Get-Richer Phenomena http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf
+   * The Small-World Phenomenon http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch20.pdf
 # 머신러닝
 * [a few useful things to Know about machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [scikit vs tensor flow](https://stackoverflow.com/questions/61233004/whats-the-difference-between-scikit-learn-and-tensorflow-is-it-possible-to-use)
