@@ -20,9 +20,7 @@
    * The Treachery of Leakage https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
    * Leakage in Data Mining: Formulation, Detection, and Avoidance https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf
    * Data Leakage Example 
-* Graph와 관련되어서
-   * Power Laws and Rich-Get-Richer Phenomena http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf
-   * The Small-World Phenomenon http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch20.pdf
+
 # 머신러닝
 * [a few useful things to Know about machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [scikit vs tensor flow](https://stackoverflow.com/questions/61233004/whats-the-difference-between-scikit-learn-and-tensorflow-is-it-possible-to-use)
@@ -71,6 +69,9 @@
 * Clustering coefficient https://en.wikipedia.org/wiki/Clustering_coefficient
   * The local clustering coefficient $C_i$ for a vertex $v_i$ is then given by  ***a proportion of the number of links between the vertices within its neighbourhood* divided by *the number of links that could possibly exist between them.***
   * Let ${\displaystyle \lambda _{G}(v)}$ be the number of triangles on ${\displaystyle v\in V(G)}$ for undirected graph ${\displaystyle G}$. That is, ${\displaystyle \lambda _{G}(v)}$ is the number of subgraphs of ${\displaystyle G}$ with 3 edges and 3 vertices, one of which is ${\displaystyle v}$. Let ${\displaystyle \tau _{G}(v)}$ be the number of triples on ${\displaystyle v\in G}$. That is, ${\displaystyle \tau _{G}(v)}$ is the number of subgraphs (not necessarily induced) with 2 edges and 3 vertices, one of which is ${\displaystyle v}$ and such that ${\displaystyle v}$ is incident to both edges. Then we can also define the clustering coefficient as
+  * Graph와 관련되어서
+   * Power Laws and Rich-Get-Richer Phenomena http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch18.pdf
+   * The Small-World Phenomenon http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch20.pdf
 
 $${\displaystyle C_{i}={\frac {\lambda _{G}(v)}{\tau _{G}(v)}}.}$$
 
